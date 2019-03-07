@@ -1,0 +1,37 @@
+
+body {
+    font-family: arial;
+}
+
+input {
+    height: 20px;
+    padding: 5px;
+    font-size: 14px;
+    width: 200px;
+}
+
+button {
+    padding: 5px;
+    height: 32px;
+    background-color: red;
+    width: 75px;
+    color: pink;
+    font-size: 14px;
+    border-radius: 5px;
+     text-align: center;
+}
+
+span {
+    color: blue;
+}
+
+img {
+    width: 250px;
+}
+body {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTY5MjMxOTE5N15BMl5BanBnXkFtZTcwOTI1Mjk1OQ@@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg");
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
